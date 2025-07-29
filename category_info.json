@@ -1,0 +1,1183 @@
+{
+    "Data Science": {
+        "description": "This field involves extracting insights and knowledge from data using scientific methods, processes, and algorithms. It's about turning raw data into actionable intelligence.",
+        "tips": [
+            "List proficiency in **Python/R**, SQL, and data visualization tools (e.g., Tableau, Power BI).",
+            "Detail specific **machine learning models** and statistical analyses used in projects.",
+            "Quantify the **impact** of your data-driven decisions.",
+            "Showcase experience with **big data technologies** (e.g., Spark, Hadoop) if applicable."
+        ]
+    },
+    "HR": {
+        "description": "Human Resources professionals manage an organization's most valuable asset — its employees — across various lifecycle stages, from recruitment to retention.",
+        "tips": [
+            "Emphasize experience in **recruitment, onboarding, employee relations**, and compensation & benefits.",
+            "Mention knowledge of **labor laws and HRIS systems** (e.g., Workday, SAP SuccessFactors).",
+            "Highlight strong **communication, interpersonal**, and conflict resolution skills."
+        ]
+    },
+    "Advocate": {
+        "description": "This category pertains to legal professionals who represent clients in legal matters, provide legal advice, and argue cases in court.",
+        "tips": [
+            "Highlight specific areas of law you specialize in (e.g., corporate, criminal, family).",
+            "Mention your bar admission(s) and relevant legal experience.",
+            "Showcase strong research, analytical, and advocacy skills."
+        ]
+    },
+    "Python Developer": {
+        "description": "A Python Developer focuses on writing, testing, and deploying Python-based applications, often involving web development, data analysis, or scripting.",
+        "tips": [
+            "List specific **Python frameworks** (e.g., Django, Flask, FastAPI) and libraries (e.g., Pandas, NumPy, SciPy).",
+            "Showcase **personal projects** with GitHub links or live demos.",
+            "Emphasize experience with API development, databases, and testing."
+        ]
+    },
+    "Web Designing": {
+        "description": "Web Designers focus on the visual and interactive aspects of websites, including layout, color schemes, typography, and user experience.",
+        "tips": [
+            "Provide a prominent link to your **online portfolio** (essential!).",
+            "Mention proficiency in design software (e.g., Figma, Sketch, Adobe XD, Photoshop, Illustrator).",
+            "Highlight understanding of **UI/UX principles**, responsive design, and accessibility standards."
+        ]
+    },
+    "Testing": {
+        "description": "This category involves ensuring the quality and functionality of software applications through various testing methodologies.",
+        "tips": [
+            "Detail experience with **manual and automated testing** tools (e.g., Selenium, JUnit, TestNG).",
+            "Mention knowledge of **testing methodologies** (e.g., Agile, Waterfall, Black-box, White-box).",
+            "Highlight skills in writing test cases, bug tracking, and performance testing."
+        ]
+    },
+    "Arts": {
+        "description": "This category covers creative roles in fields such as visual arts, performing arts, design, and cultural institutions.",
+        "tips": [
+            "Showcase your portfolio with links to your work (e.g., Behance, ArtStation, personal website).",
+            "Mention specific artistic techniques, mediums, or software you are proficient in.",
+            "Highlight any exhibitions, performances, or awards.",
+            "Emphasize creativity, attention to detail, and unique artistic vision."
+        ]
+    },
+    "Business Development": {
+        "description": "Focused on creating long-term value for an organization through the development of relationships, markets, and customers.",
+        "tips": [
+            "Highlight experience in lead generation, client acquisition, and negotiation.",
+            "Showcase successful partnerships or revenue growth achievements.",
+            "Emphasize strong communication, strategic thinking, and networking skills."
+        ]
+    },
+    "Health and fitness": {
+        "description": "Roles focused on promoting physical well-being, healthy lifestyles, and providing fitness or wellness guidance.",
+        "tips": [
+            "List relevant certifications (e.g., personal trainer, nutritionist, yoga instructor).",
+            "Detail experience in client coaching, program development, and health assessments.",
+            "Highlight passion for well-being and ability to motivate others."
+        ]
+    },
+    "Digital Media": {
+        "description": "Encompasses roles in content creation, management, and distribution across various digital platforms, including video, audio, and interactive media.",
+        "tips": [
+            "Showcase experience with specific software (e.g., Adobe Premiere, After Effects, Audition).",
+            "Provide links to your digital portfolio or published work.",
+            "Highlight skills in storytelling, editing, and platform-specific content optimization."
+        ]
+    },
+    "Sales": {
+        "description": "Focuses on identifying potential customers, understanding their needs, and selling products or services.",
+        "tips": [
+            "Highlight experience in lead generation, prospecting, negotiation, and closing deals.",
+            "Mention specific sales methodologies (e.g., consultative selling, SPIN selling).",
+            "Showcase measurable achievements (e.g., exceeding quotas, growing revenue, client retention).",
+            "Detail proficiency with CRM systems (e.g., Salesforce, HubSpot Sales)."
+        ]
+    },
+    "Agriculture": {
+        "description": "Roles involved in the cultivation of land, raising animals, and management of natural resources for food and fiber production.",
+        "tips": [
+            "Detail experience with specific crops, livestock, or farming techniques.",
+            "Mention any relevant certifications or specialized equipment operation.",
+            "Highlight knowledge of sustainable practices, agricultural technology, or farm management."
+        ]
+    },
+    "Operations": {
+        "description": "Manages the processes within an organization to ensure efficiency, productivity, and smooth workflow.",
+        "tips": [
+            "Emphasize experience in process improvement, supply chain management, logistics, and quality control.",
+            "Mention knowledge of Lean, Six Sigma, or other operational methodologies.",
+            "Highlight skills in data analysis, resource allocation, and problem-solving."
+        ]
+    },
+    "Technical Writer": {
+        "description": "Creates clear, concise, and accurate documentation for technical products, processes, or services.",
+        "tips": [
+            "Showcase a portfolio of writing samples (user manuals, API documentation, help articles).",
+            "Mention proficiency in documentation tools (e.g., Oxygen XML, MadCap Flare) and version control.",
+            "Highlight ability to explain complex technical concepts simply."
+        ]
+    },
+    "Designing": {
+        "description": "A broad category covering various design disciplines, including product design, industrial design, and general creative design.",
+        "tips": [
+            "Provide a link to your design portfolio.",
+            "Mention specific design software (e.g., AutoCAD, SolidWorks, SketchUp) and methodologies.",
+            "Highlight creativity, problem-solving through design, and attention to detail."
+        ]
+    },
+    "DevOps Engineer": {
+        "description": "A DevOps Engineer bridges development and operations, focusing on automating and streamlining software delivery.",
+        "tips": [
+            "List experience with CI/CD pipelines (e.g., Jenkins, GitLab CI, Azure DevOps).",
+            "Mention proficiency in cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes).",
+            "Highlight scripting languages (e.g., Python, Bash) and infrastructure-as-code tools (Terraform, Ansible)."
+        ]
+    },
+    "Mechanical Engineer": {
+        "description": "Applies principles of physics and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems.",
+        "tips": [
+            "Detail experience with CAD software (e.g., AutoCAD, SolidWorks, Fusion 360) and CAE tools (FEA).",
+            "Showcase design projects, prototypes, or process improvements.",
+            "Mention knowledge of manufacturing processes, materials science, and thermodynamics."
+        ]
+    },
+    "Civil Engineer": {
+        "description": "Involves the design, construction, and maintenance of the physical and naturally built environment, including roads, bridges, canals, dams, and buildings.",
+        "tips": [
+            "Highlight experience in structural analysis, site planning, and project management.",
+            "Mention proficiency in design software (e.g., AutoCAD, SAP2000, ETABS).",
+            "Showcase successful projects and adherence to building codes/regulations."
+        ]
+    },
+    "Blockchain": {
+        "description": "Specializes in developing and implementing distributed ledger technologies and decentralized applications.",
+        "tips": [
+            "List experience with blockchain platforms (e.g., Ethereum, Solana, Hyperledger).",
+            "Detail knowledge of smart contract development (e.g., Solidity) and decentralized applications (dApps).",
+            "Mention cryptography, consensus mechanisms, and security principles."
+        ]
+    },
+    "Database": {
+        "description": "Focuses on the design, implementation, and maintenance of databases and database management systems (DBMS).",
+        "tips": [
+            "List proficiency in SQL and specific database systems (e.g., MySQL, PostgreSQL, Oracle, MongoDB).",
+            "Highlight experience in database design, optimization, backup, and recovery.",
+            "Mention knowledge of data warehousing and ETL processes."
+        ]
+    },
+    "Hadoop": {
+        "description": "Specializes in Big Data technologies, particularly the Hadoop ecosystem for distributed data storage and processing.",
+        "tips": [
+            "Detail experience with Hadoop components (HDFS, MapReduce, YARN) and related tools (Hive, Pig, Spark).",
+            "Showcase projects involving large-scale data processing and analytics.",
+            "Highlight expertise in data pipeline development and cluster management."
+        ]
+    },
+    "ETL Developer": {
+        "description": "An ETL (Extract, Transform, Load) Developer designs and manages data integration processes to move data between systems.",
+        "tips": [
+            "List proficiency in ETL tools (e.g., Informatica, SSIS, Talend) and scripting languages (SQL, Python).",
+            "Detail experience in data warehousing, data modeling, and data quality.",
+            "Highlight ability to optimize data loads and ensure data consistency."
+        ]
+    },
+    "DotNet Developer": {
+        "description": "Focuses on developing applications using Microsoft's .NET framework and related technologies.",
+        "tips": [
+            "List experience with C#, ASP.NET, .NET Core, and Visual Studio.",
+            "Showcase web application, desktop application, or API development projects.",
+            "Mention knowledge of SQL Server, Azure, and unit testing."
+        ]
+    },
+    "Automation Testing": {
+        "description": "Specializes in designing, developing, and executing automated test scripts to ensure software quality and efficiency.",
+        "tips": [
+            "Detail experience with automation frameworks (e.g., Selenium, Playwright, Cypress).",
+            "Mention proficiency in scripting languages (e.g., Python, Java, JavaScript) for test automation.",
+            "Highlight knowledge of CI/CD integration and test reporting."
+        ]
+    },
+    "PMO": {
+        "description": "Roles within a Project Management Office, focusing on standardizing project management processes, methodologies, and governance.",
+        "tips": [
+            "Highlight experience in portfolio management, project governance, and process improvement.",
+            "Mention proficiency in project management tools (e.g., Jira, Asana, Microsoft Project).",
+            "Showcase ability to support project managers and ensure strategic alignment."
+        ]
+    },
+    "Network Security Engineer": {
+        "description": "Designs, implements, and maintains secure network infrastructures, protecting systems from cyber threats.",
+        "tips": [
+            "List experience with firewalls, intrusion detection/prevention systems (IDS/IPS), VPNs.",
+            "Mention certifications (e.g., CCNA Security, CompTIA Security+, CISSP).",
+            "Highlight knowledge of network protocols, vulnerability assessment, and incident response."
+        ]
+    },
+    "SAP Developer": {
+        "description": "Develops and customizes applications within the SAP ecosystem, often using ABAP or other SAP-specific technologies.",
+        "tips": [
+            "List proficiency in ABAP, SAP Fiori, or SAP S/4HANA.",
+            "Detail experience with specific SAP modules (e.g., FI/CO, SD, MM, HR).",
+            "Highlight participation in SAP implementation or upgrade projects."
+        ]
+    },
+    "Electrical Engineer": {
+        "description": "Designs, develops, and maintains electrical systems and components, including power generation, transmission, and control systems.",
+        "tips": [
+            "Detail experience with circuit design, power electronics, and control systems.",
+            "Mention proficiency in simulation software (e.g., MATLAB/Simulink, LTSpice).",
+            "Showcase projects involving electrical system design or troubleshooting."
+        ]
+    },
+    "HR Analytics": {
+        "description": "Combines HR expertise with data analysis to provide insights that improve HR strategies and business outcomes.",
+        "tips": [
+            "List experience with HR data analysis, reporting, and dashboard creation.",
+            "Mention proficiency in statistical tools (e.g., R, Python) and visualization tools (e.g., Tableau).",
+            "Highlight ability to translate data into actionable HR recommendations."
+        ]
+    },
+    "Public Relations": {
+        "description": "Manages an organization's public image and communication, building positive relationships with stakeholders and media.",
+        "tips": [
+            "Showcase experience in media relations, press release writing, and crisis communication.",
+            "Mention successful PR campaigns and media placements.",
+            "Highlight strong writing, communication, and networking skills."
+        ]
+    },
+    "Finance": {
+        "description": "Deals with the management of money and investments, including financial planning, analysis, and risk management.",
+        "tips": [
+            "Showcase experience in financial modeling, analysis, budgeting, and forecasting.",
+            "Mention relevant certifications (e.g., CFA, CPA, FRM) and software (e.g., Excel, Bloomberg, SAP FICO).",
+            "Highlight quantitative skills, attention to detail, and regulatory compliance knowledge."
+        ]
+    },
+    "Architect": {
+        "description": "A broad category for roles involving the design and planning of structures, systems, or software architectures.",
+        "tips": [
+            "Specify your architectural domain (e.g., software architect, enterprise architect, solution architect).",
+            "Highlight experience in designing scalable systems, defining technical standards, and leading technical teams.",
+            "Mention relevant certifications or methodologies (e.g., TOGAF, AWS Certified Architect)."
+        ]
+    },
+    "Software Testing": {
+        "description": "Ensures the quality, functionality, and performance of software applications through various testing phases and techniques.",
+        "tips": [
+            "Detail experience with different testing types (e.g., functional, regression, performance, security).",
+            "Mention proficiency in test management tools (e.g., Jira, Zephyr) and bug tracking systems.",
+            "Highlight skills in test case design, defect reporting, and collaboration with development teams."
+        ]
+    },
+    "Java Developer": {
+        "description": "Focuses on designing, developing, and maintaining applications using the Java programming language and its ecosystem.",
+        "tips": [
+            "List experience with Java frameworks (e.g., Spring Boot, Hibernate) and related technologies (e.g., Maven, Gradle).",
+            "Showcase enterprise application development, web services (REST/SOAP), or Android development projects.",
+            "Mention proficiency in databases, cloud platforms, and unit testing (e.g., JUnit)."
+        ]
+    },
+    "Business Analyst": {
+        "description": "Acts as a liaison between business stakeholders and technical teams, translating business needs into technical requirements.",
+        "tips": [
+            "Highlight experience in requirements gathering, process modeling, and stakeholder management.",
+            "Mention proficiency in tools like Jira, Confluence, Visio, and SQL.",
+            "Showcase ability to analyze data, identify inefficiencies, and propose solutions."
+        ]
+    },
+    "Chemical Engineer": {
+        "description": "Applies principles of chemistry, biology, physics, and math to design and operate industrial processes that transform raw materials into products.",
+        "tips": [
+            "Detail experience in process design, optimization, and control.",
+            "Mention knowledge of chemical safety, environmental regulations, and materials science.",
+            "Showcase projects in product development, manufacturing, or quality assurance."
+        ]
+    },
+    "Cyber Security": {
+        "description": "Protects computer systems and networks from digital attacks, unauthorized access, and data breaches.",
+        "tips": [
+            "List experience with security tools (e.g., SIEM, firewalls, antivirus) and methodologies (e.g., penetration testing, vulnerability assessment).",
+            "Mention certifications (e.g., CompTIA Security+, CEH, CISSP) and knowledge of security frameworks (e.g., NIST, ISO 27001).",
+            "Highlight incident response, risk assessment, and security policy development."
+        ]
+    },
+    "UI/UX Designer": {
+        "description": "Focuses on creating user-friendly and aesthetically pleasing interfaces (UI) and ensuring an optimal user experience (UX) for digital products.",
+        "tips": [
+            "Provide a strong online portfolio showcasing your design process and outcomes.",
+            "Mention proficiency in design tools (e.g., Figma, Sketch, Adobe XD) and prototyping tools.",
+            "Highlight experience with user research, wireframing, usability testing, and accessibility."
+        ]
+    },
+    "Biomedical Engineer": {
+        "description": "Combines engineering principles with medical sciences to design and create equipment, devices, and systems for healthcare.",
+        "tips": [
+            "Detail experience with medical device design, biomechanics, or biomaterials.",
+            "Mention knowledge of regulatory standards (e.g., FDA, ISO 13485) and clinical trials.",
+            "Showcase projects in diagnostics, prosthetics, or rehabilitation engineering."
+        ]
+    },
+    "Automobile": {
+        "description": "Roles in the automotive industry, encompassing design, manufacturing, testing, and maintenance of vehicles.",
+        "tips": [
+            "Highlight experience with vehicle systems (e.g., engines, transmissions, electronics).",
+            "Mention proficiency in automotive design software (e.g., CATIA, SolidWorks) or diagnostic tools.",
+            "Showcase projects related to vehicle performance, safety, or new technologies (EVs)."
+        ]
+    },
+    "Graphic Designer": {
+        "description": "Creates visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, or captivate consumers.",
+        "tips": [
+            "Provide a prominent link to your online portfolio (essential for visual roles!).",
+            "Mention proficiency in design software (e.g., **Adobe Creative Suite**: Photoshop, Illustrator, InDesign, Figma).",
+            "Highlight understanding of **design principles**, typography, color theory, and user experience (UX) basics.",
+            "Showcase versatility across different media (print, digital, branding)."
+        ]
+    },
+    "Legal": {
+        "description": "Covers a broad spectrum of roles within the legal profession, from paralegals to attorneys and legal assistants.",
+        "tips": [
+            "Specify your area of legal expertise (e.g., corporate law, criminal law, intellectual property).",
+            "Highlight experience in legal research, drafting documents, and litigation support.",
+            "Mention bar admissions, legal software proficiency, and case management experience."
+        ]
+    },
+    "BPO": {
+        "description": "Business Process Outsourcing roles, typically in call centers or back-office operations, focusing on customer support, data entry, or administrative tasks.",
+        "tips": [
+            "Emphasize strong communication skills, problem-solving abilities, and customer empathy.",
+            "Mention experience with CRM software, ticketing systems, and call handling metrics.",
+            "Highlight ability to work in a fast-paced environment and adhere to KPIs."
+        ]
+    },
+    "Apparel": {
+        "description": "Roles in the fashion and garment industry, including design, manufacturing, merchandising, and retail of clothing.",
+        "tips": [
+            "Showcase design sketches, garment construction experience, or fashion portfolio.",
+            "Mention proficiency in design software (e.g., Adobe Illustrator, CAD for fashion) and knowledge of textiles.",
+            "Highlight experience in fashion trends, supply chain, or retail management."
+        ]
+    },
+    "React JS Developer": {
+        "description": "Specializes in building user interfaces and front-end components using the React JavaScript library.",
+        "tips": [
+            "List experience with React.js, Redux, Context API, and related tools (e.g., Webpack, Babel).",
+            "Showcase single-page applications (SPAs) or complex UI components with live demos/GitHub links.",
+            "Mention knowledge of JavaScript (ES6+), HTML5, CSS3, and API integration."
+        ]
+    },
+    "Workday Developer": {
+        "description": "Focuses on configuring, customizing, and developing solutions within the Workday HCM (Human Capital Management) and Financials platform.",
+        "tips": [
+            "Detail experience with Workday Studio, Report Writer, EIBs, and BIRT.",
+            "Mention specific Workday modules (e.g., Core HCM, Payroll, Benefits, Absence).",
+            "Highlight participation in Workday implementation, integration, or support projects."
+        ]
+    },
+    "Scrum Master": {
+        "description": "Facilitates Scrum events, helps the team follow Scrum principles, and removes impediments to progress, fostering a productive agile environment.",
+        "tips": [
+            "List relevant certifications (e.g., CSM, PSM).",
+            "Highlight experience in facilitating Scrum ceremonies, coaching teams, and resolving conflicts.",
+            "Showcase ability to improve team velocity and foster a culture of continuous improvement."
+        ]
+    },
+    "Project Manager": {
+        "description": "Leads the work of a team to achieve all project goals within given constraints and deadlines.",
+        "tips": [
+            "Mention **project management methodologies** (e.g., Agile, Scrum, Waterfall, Lean).",
+            "Showcase experience in **planning, execution, monitoring, and closing projects**.",
+            "Highlight certifications (e.g., **PMP, PRINCE2**) and strong leadership/organizational skills.",
+            "Quantify project successes (e.g., on-time delivery, budget adherence)."
+        ]
+    },
+    "Veterinary": {
+        "description": "Professionals dedicated to the health and well-being of animals, including diagnosis, treatment, and prevention of diseases.",
+        "tips": [
+            "Detail experience in small or large animal practice, specific medical procedures, or specialties.",
+            "Mention veterinary licenses, certifications, and knowledge of animal welfare regulations.",
+            "Highlight empathy, diagnostic skills, and client communication."
+        ]
+    },
+    "Quality Analyst": {
+        "description": "Ensures products, services, or processes meet specified quality standards and requirements.",
+        "tips": [
+            "List experience with quality assurance methodologies, testing procedures, and defect management.",
+            "Mention proficiency in testing tools or quality management systems.",
+            "Highlight skills in root cause analysis, process improvement, and data analysis for quality metrics."
+        ]
+    },
+    "Web Developer": {
+        "description": "A general category for professionals who build and maintain websites, encompassing front-end, back-end, or full-stack development.",
+        "tips": [
+            "Specify your focus: front-end (HTML, CSS, JavaScript, React/Angular/Vue), back-end (Python/Django, Node.js/Express, PHP/Laravel), or full-stack.",
+            "Provide links to your web development portfolio or live projects.",
+            "Mention experience with databases, APIs, and version control (Git)."
+        ]
+    },
+    "System Administrator": {
+        "description": "Manages and maintains computer systems, servers, and networks, ensuring their smooth operation and security.",
+        "tips": [
+            "List experience with operating systems (Linux, Windows Server), virtualization (VMware, Hyper-V), and cloud platforms.",
+            "Mention proficiency in scripting (e.g., PowerShell, Bash) and network protocols.",
+            "Highlight skills in troubleshooting, system monitoring, and backup/recovery."
+        ]
+    },
+    "Wordpress Developer": {
+        "description": "Specializes in building and customizing websites using the WordPress content management system (CMS).",
+        "tips": [
+            "Detail experience with WordPress theme and plugin development.",
+            "Mention proficiency in PHP, HTML, CSS, JavaScript, and MySQL.",
+            "Showcase custom WordPress projects, e-commerce integrations, or performance optimization."
+        ]
+    },
+    "Frontend Developer": {
+        "description": "Focuses on the client-side of web development, building the visual and interactive parts of websites that users directly interact with.",
+        "tips": [
+            "List proficiency in HTML5, CSS3, and modern JavaScript (ES6+).",
+            "Mention experience with front-end frameworks/libraries (e.g., React, Angular, Vue.js).",
+            "Showcase responsive web design, cross-browser compatibility, and UI/UX implementation."
+        ]
+    },
+    "Backend Developer": {
+        "description": "Works on the server-side of web applications, managing databases, APIs, and server logic.",
+        "tips": [
+            "List proficiency in server-side languages (e.g., Python/Django/Flask, Node.js/Express, Java/Spring, Ruby/Rails, PHP/Laravel).",
+            "Mention experience with various databases (SQL, NoSQL) and API design (RESTful).",
+            "Showcase backend architecture, performance optimization, and security best practices."
+        ]
+    },
+    "Fullstack Developer": {
+        "description": "Possesses skills in both front-end and back-end web development, capable of building a complete web application from end to end.",
+        "tips": [
+            "Highlight proficiency in at least one front-end framework/library and one back-end framework/language.",
+            "Showcase end-to-end projects demonstrating database interaction, API development, and responsive UI.",
+            "Mention experience with deployment, cloud platforms, and CI/CD."
+        ]
+    },
+    "Mobile Developer": {
+        "description": "Specializes in developing applications for mobile devices (smartphones and tablets), typically for iOS or Android platforms.",
+        "tips": [
+            "Specify your platform expertise (e.g., iOS/Swift/Objective-C, Android/Kotlin/Java, React Native, Flutter).",
+            "Showcase published apps or mobile development projects with links.",
+            "Mention experience with mobile UI/UX, API integration, and performance optimization."
+        ]
+    },
+    "Game Developer": {
+        "description": "Focuses on designing, developing, and producing video games for various platforms.",
+        "tips": [
+            "List proficiency in game engines (e.g., Unity, Unreal Engine) and programming languages (e.g., C#, C++).",
+            "Showcase game projects, prototypes, or contributions with playable demos/links.",
+            "Mention experience with game mechanics, graphics, physics, and multiplayer systems."
+        ]
+    },
+    "Cloud Engineer": {
+        "description": "Designs, implements, and manages cloud infrastructure and services on platforms like AWS, Azure, or Google Cloud.",
+        "tips": [
+            "List experience with specific cloud services (e.g., EC2, S3, Lambda, Azure VMs, GCP Compute Engine).",
+            "Mention certifications (e.g., AWS Certified Solutions Architect, Azure Administrator).",
+            "Highlight skills in cloud migration, cost optimization, and automation."
+        ]
+    },
+    "Machine Learning Engineer": {
+        "description": "Designs, builds, and maintains machine learning systems and models for various applications.",
+        "tips": [
+            "List proficiency in Python and ML libraries (e.g., TensorFlow, PyTorch, scikit-learn).",
+            "Showcase end-to-end ML projects from data collection to deployment.",
+            "Mention experience with MLOps, model deployment, and performance monitoring."
+        ]
+    },
+    "Deep Learning Engineer": {
+        "description": "Specializes in developing and optimizing deep neural networks for complex tasks like image recognition, natural language processing, and generative models.",
+        "tips": [
+            "List expertise in deep learning frameworks (e.g., TensorFlow, PyTorch, Keras).",
+            "Showcase projects involving CNNs, RNNs, Transformers, or generative models.",
+            "Mention experience with GPU computing, model optimization, and large datasets."
+        ]
+    },
+    "AI Engineer": {
+        "description": "A broad role involving the design, development, and deployment of artificial intelligence systems and applications.",
+        "tips": [
+            "List proficiency in relevant AI domains (e.g., NLP, Computer Vision, Speech Recognition).",
+            "Mention experience with AI frameworks, model training, and ethical AI considerations.",
+            "Showcase practical AI applications and their business impact."
+        ]
+    },
+    "Data Engineer": {
+        "description": "Builds and maintains scalable data pipelines and infrastructures to collect, store, process, and analyze large datasets.",
+        "tips": [
+            "List experience with data warehousing, ETL processes, and big data technologies (e.g., Spark, Hadoop, Kafka).",
+            "Mention proficiency in SQL, Python, and cloud data services (e.g., AWS Glue, Azure Data Factory).",
+            "Highlight skills in data modeling, performance optimization, and data governance."
+        ]
+    },
+    "Business Intelligence Developer": {
+        "description": "Designs and develops BI solutions, dashboards, and reports to help organizations make data-driven decisions.",
+        "tips": [
+            "List proficiency in BI tools (e.g., Tableau, Power BI, QlikView, Looker) and SQL.",
+            "Mention experience in data modeling, data visualization, and requirement gathering.",
+            "Showcase dashboards or reports that provided actionable insights."
+        ]
+    },
+    "DevSecOps Engineer": {
+        "description": "Integrates security practices throughout the entire software development lifecycle (SDLC) within a DevOps framework.",
+        "tips": [
+            "List experience with security tools in CI/CD pipelines (SAST, DAST, SCA).",
+            "Mention knowledge of security best practices, compliance standards (e.g., GDPR, HIPAA), and risk management.",
+            "Highlight skills in automating security checks and incident response."
+        ]
+    },
+    "Cloud Architect": {
+        "description": "Designs cloud computing strategies and architectures, overseeing the deployment of cloud infrastructure.",
+        "tips": [
+            "List extensive experience with one or more major cloud providers (AWS, Azure, GCP).",
+            "Mention certifications (e.g., AWS Certified Solutions Architect - Professional).",
+            "Highlight skills in designing scalable, secure, and cost-effective cloud solutions."
+        ]
+    },
+    "Solutions Architect": {
+        "description": "Designs and implements technical solutions to meet business requirements, bridging the gap between business problems and technical implementations.",
+        "tips": [
+            "Highlight experience in designing end-to-end solutions, selecting technologies, and guiding development teams.",
+            "Mention proficiency in architectural patterns, integration strategies, and technical leadership.",
+            "Showcase successful solution implementations and their business impact."
+        ]
+    },
+    "Enterprise Architect": {
+        "description": "Develops a holistic view of the organization's strategy, processes, information, and IT assets, aligning them with business goals.",
+        "tips": [
+            "List experience with enterprise architecture frameworks (e.g., TOGAF, Zachman).",
+            "Mention skills in strategic planning, business capability modeling, and technology roadmapping.",
+            "Highlight ability to facilitate communication between business and IT leadership."
+        ]
+    },
+    "IT Support": {
+        "description": "Provides technical assistance and troubleshooting to users experiencing hardware, software, or network issues.",
+        "tips": [
+            "Highlight proficiency in office software (e.g., Microsoft Office Suite, Google Workspace), scheduling, and organizational tools.",
+            "Mention experience in managing calendars, preparing documents, and coordinating meetings.",
+            "Showcase strong communication, multitasking, and problem-solving skills."
+        ]
+    },
+    "Technical Support": {
+        "description": "A specialized form of IT support focusing on complex technical products or services, often requiring deeper technical knowledge.",
+        "tips": [
+            "List expertise in specific software, hardware, or systems relevant to the role.",
+            "Highlight experience in advanced troubleshooting, issue escalation, and documentation.",
+            "Mention certifications (e.g., CompTIA A+, Network+, CCNA) if applicable."
+        ]
+    },
+    "Helpdesk": {
+        "description": "The first point of contact for users seeking technical assistance, typically handling basic to intermediate IT issues.",
+        "tips": [
+            "Emphasize strong communication skills, empathy, and ability to follow procedures.",
+            "Mention experience with call center environments and common software applications.",
+            "Highlight problem-solving skills and ability to handle high call volumes and maintain professionalism."
+        ]
+    },
+    "Network Administrator": {
+        "description": "Manages and maintains an organization's computer networks, ensuring their performance, security, and availability.",
+        "tips": [
+            "List experience with network devices (routers, switches, firewalls) and protocols (TCP/IP, DNS, DHCP).",
+            "Mention certifications (e.g., CompTIA Network+, CCNA) and network monitoring tools.",
+            "Highlight skills in network design, troubleshooting, and security implementation."
+        ]
+    },
+    "Database Administrator": {
+        "description": "Responsible for the performance, integrity, and security of a database.",
+        "tips": [
+            "List expertise in specific database systems (e.g., Oracle, SQL Server, MySQL, PostgreSQL).",
+            "Highlight experience in database installation, configuration, backup, recovery, and performance tuning.",
+            "Mention knowledge of SQL, replication, and security best practices."
+        ]
+    },
+    "System Engineer": {
+        "description": "Works on the overall design, integration, and management of complex engineering projects, often combining hardware and software components.",
+        "tips": [
+            "Detail experience in requirements analysis, system design, integration, and testing.",
+            "Mention knowledge of systems engineering methodologies and tools (e.g., MATLAB/Simulink).",
+            "Highlight problem-solving, analytical, and interdisciplinary collaboration skills."
+        ]
+    },
+    "Site Reliability Engineer": {
+        "description": "Combines software engineering and operations to build and run large-scale, fault-tolerant systems, focusing on reliability and availability.",
+        "tips": [
+            "List experience with cloud platforms, distributed systems, and automation tools (e.g., Terraform, Ansible).",
+            "Mention proficiency in programming languages (e.g., Python, Go) and monitoring/alerting systems.",
+            "Highlight skills in incident response, post-mortems, and performance optimization."
+        ]
+    },
+    "Product Manager": {
+        "description": "Defines the product vision, strategy, and roadmap, overseeing a product's entire lifecycle from conception to launch and iteration.",
+        "tips": [
+            "Highlight experience in market research, competitive analysis, and user needs assessment.",
+            "Mention proficiency in product management tools (e.g., Jira, Aha!, Productboard) and agile methodologies.",
+            "Showcase successful product launches, feature development, and measurable impact."
+        ]
+    },
+    "Product Owner": {
+        "description": "Represents the voice of the customer and business stakeholders within an agile development team, prioritizing the product backlog.",
+        "tips": [
+            "Detail experience in writing user stories, managing product backlogs, and stakeholder communication.",
+            "Mention knowledge of Scrum or other agile frameworks and continuous delivery.",
+            "Highlight ability to clarify requirements and ensure team alignment with product vision."
+        ]
+    },
+    "Agile Coach": {
+        "description": "Guides and mentors individuals and teams in adopting and implementing Agile principles and practices to improve efficiency and collaboration.",
+        "tips": [
+            "List relevant certifications (e.g., SAFe Agilist, ICAgile Certified Professional).",
+            "Highlight experience in facilitating workshops, coaching agile teams, and organizational change management.",
+            "Showcase ability to foster a culture of continuous improvement and self-organization."
+        ]
+    },
+    "Marketing Specialist": {
+        "description": "Develops and executes marketing strategies to promote products, services, or brands.",
+        "tips": [
+            "Highlight experience in digital marketing, content creation, social media, or event marketing.",
+            "Mention proficiency in marketing automation tools, analytics platforms, and SEO/SEM basics.",
+            "Showcase successful campaigns and measurable marketing ROI."
+        ]
+    },
+    "Content Writer": {
+        "description": "Creates engaging and informative written content for various platforms, including websites, blogs, articles, and marketing materials.",
+        "tips": [
+            "Provide a portfolio of writing samples showcasing versatility and quality.",
+            "Mention experience with SEO best practices, content management systems (CMS), and audience analysis.",
+            "Highlight strong research skills, grammar, and ability to adapt writing style."
+        ]
+    },
+    "SEO Specialist": {
+        "description": "Optimizes websites and online content to improve search engine rankings and increase organic traffic.",
+        "tips": [
+            "List experience with keyword research, on-page and off-page SEO, and technical SEO audits.",
+            "Mention proficiency in SEO tools (e.g., Google Analytics, Search Console, Ahrefs, SEMrush).",
+            "Showcase successful ranking improvements and traffic growth."
+        ]
+    },
+    "SEM Specialist": {
+        "description": "Manages paid search campaigns (PPC) on platforms like Google Ads and Microsoft Advertising to drive targeted traffic.",
+        "tips": [
+            "List experience in campaign setup, bid management, ad copy creation, and A/B testing.",
+            "Mention proficiency in Google Ads, Bing Ads, and analytics platforms.",
+            "Highlight ability to optimize ad spend and achieve ROI targets."
+        ]
+    },
+    "Social Media Manager": {
+        "description": "Develops and executes social media strategies to build brand awareness, engage audiences, and drive business goals.",
+        "tips": [
+            "Highlight experience managing social media platforms (e.g., Facebook, Instagram, LinkedIn, X).",
+            "Mention proficiency in social media management tools and content scheduling.",
+            "Showcase successful campaigns, audience growth, and engagement metrics."
+        ]
+    },
+    "Email Marketing Specialist": {
+        "description": "Designs, implements, and analyzes email marketing campaigns to nurture leads and drive conversions.",
+        "tips": [
+            "List experience with email marketing platforms (e.g., Mailchimp, HubSpot, SendGrid).",
+            "Highlight skills in list segmentation, A/B testing, and email automation.",
+            "Showcase successful campaign metrics (open rates, click-through rates, conversions)."
+        ]
+    },
+    "Brand Manager": {
+        "description": "Develops and executes strategies to build and maintain a strong brand identity and reputation.",
+        "tips": [
+            "Highlight experience in brand positioning, market analysis, and campaign development.",
+            "Mention skills in consumer insights, budget management, and cross-functional collaboration.",
+            "Showcase successful brand initiatives and measurable impact on brand perception."
+        ]
+    },
+    "Copywriter": {
+        "description": "Creates persuasive and engaging text for advertisements, marketing materials, websites, and other communications.",
+        "tips": [
+            "Provide a portfolio of writing samples demonstrating versatility and quality.",
+            "Highlight ability to craft compelling headlines, calls to action, and benefit-driven copy.",
+            "Mention experience with different tone of voice and target audiences."
+        ]
+    },
+    "Journalist": {
+        "description": "Researches, writes, and reports news and stories for various media outlets.",
+        "tips": [
+            "Provide samples of published articles, reports, or broadcasts.",
+            "Highlight skills in investigative reporting, interviewing, and fact-checking.",
+            "Mention experience with specific beats or media formats (print, broadcast, digital)."
+        ]
+    },
+    "Editor": {
+        "description": "Reviews and refines written content for clarity, grammar, style, and accuracy.",
+        "tips": [
+            "Showcase experience with different editing types (e.g., copyediting, developmental editing, proofreading).",
+            "Mention proficiency in style guides (e.g., AP, Chicago) and content management systems.",
+            "Highlight attention to detail, strong grammar, and ability to improve readability."
+        ]
+    },
+    "Event Manager": {
+        "description": "Plans, organizes, and executes events of various sizes, from conferences to celebrations.",
+        "tips": [
+            "Highlight experience in budget management, vendor negotiation, logistics, and marketing.",
+            "Showcase successful events with quantifiable outcomes (e.g., attendance, satisfaction scores).",
+            "Mention strong organizational, communication, and problem-solving skills."
+        ]
+    },
+    "Customer Success Manager": {
+        "description": "Builds and maintains strong relationships with customers, ensuring they achieve their desired outcomes using a product or service.",
+        "tips": [
+            "Highlight experience in customer onboarding, product adoption, and retention strategies.",
+            "Mention proficiency in CRM software and customer success platforms.",
+            "Showcase ability to reduce churn and increase customer lifetime value."
+        ]
+    },
+    "Account Manager": {
+        "description": "Manages client accounts, maintaining strong relationships, identifying new opportunities, and ensuring client satisfaction.",
+        "tips": [
+            "Highlight experience in client relationship management, upselling, and cross-selling.",
+            "Mention strong negotiation, communication, and presentation skills.",
+            "Showcase successful account growth and client retention metrics."
+        ]
+    },
+    "Sales Engineer": {
+        "description": "Combines technical expertise with sales skills to present and demonstrate complex products or solutions to potential customers.",
+        "tips": [
+            "Highlight technical proficiency in relevant products/technologies.",
+            "Mention experience in product demonstrations, technical presentations, and solution architecture.",
+            "Showcase ability to understand customer needs and provide tailored technical solutions."
+        ]
+    },
+    "Sales Manager": {
+        "description": "Leads and motivates a sales team to achieve sales targets and business objectives.",
+        "tips": [
+            "Highlight experience in sales team leadership, coaching, and performance management.",
+            "Mention proficiency in sales methodologies, forecasting, and CRM systems.",
+            "Showcase achievements in revenue growth, market share expansion, and team development."
+        ]
+    },
+    "Retail Sales Associate": {
+        "description": "Assists customers in a retail environment, provides product information, and completes sales transactions.",
+        "tips": [
+            "Emphasize strong customer service skills, product knowledge, and communication.",
+            "Mention experience with POS systems and sales targets.",
+            "Highlight ability to build rapport with customers and drive sales."
+        ]
+    },
+    "Customer Service Representative": {
+        "description": "Provides direct support to customers, answering inquiries, resolving issues, and ensuring satisfaction.",
+        "tips": [
+            "Highlight strong communication (verbal and written), active listening, and problem-solving skills.",
+            "Mention experience with call center environments, ticketing systems, and customer databases.",
+            "Showcase ability to handle difficult situations with patience and professionalism."
+        ]
+    },
+    "Call Center Agent": {
+        "description": "Handles incoming and outgoing calls, providing information, resolving issues, or conducting sales/surveys.",
+        "tips": [
+            "Emphasize excellent communication, active listening, and data entry skills.",
+            "Mention experience with call center software and adherence to call scripts/protocols.",
+            "Highlight ability to handle high call volumes and maintain professionalism."
+        ]
+    },
+    "Administrative Assistant": {
+        "description": "Provides administrative and clerical support to individuals, teams, or departments.",
+        "tips": [
+            "Highlight proficiency in office software (e.g., Microsoft Office Suite, Google Workspace), scheduling, and organizational tools.",
+            "Mention experience in managing calendars, preparing documents, and coordinating meetings.",
+            "Showcase strong communication, multitasking, and problem-solving skills."
+        ]
+    },
+    "Executive Assistant": {
+        "description": "Provides high-level administrative support to senior executives, often managing complex schedules, communications, and projects.",
+        "tips": [
+            "Detail experience in executive calendar management, travel arrangements, confidential document handling, and project coordination.",
+            "Highlight strong discretion, proactive problem-solving, and communication skills.",
+            "Mention proficiency in advanced office software and executive-level support."
+        ]
+    },
+    "Office Manager": {
+        "description": "Oversees the administrative operations of an office, ensuring efficiency, compliance, and a productive work environment.",
+        "tips": [
+            "Highlight experience in office administration, budgeting, facilities management, and team supervision.",
+            "Mention proficiency in office software, vendor management, and process improvement.",
+            "Showcase strong organizational, leadership, and problem-solving skills."
+        ]
+    },
+    "Human Resources Manager": {
+        "description": "Manages all aspects of human resources for an organization, including strategy, policies, and operations.",
+        "tips": [
+            "Detail experience in HR strategy development, policy implementation, talent management, and employee relations.",
+            "Mention knowledge of labor laws, HR best practices, and HRIS systems.",
+            "Highlight leadership, communication, and conflict resolution skills."
+        ]
+    },
+    "Recruiter": {
+        "description": "Identifies, attracts, and screens candidates for job openings, managing the hiring process from start to finish.",
+        "tips": [
+            "Highlight experience in full-cycle recruitment, sourcing techniques (e.g., LinkedIn Recruiter, boolean search), and applicant tracking systems (ATS).",
+            "Mention strong interviewing, negotiation, and candidate relationship management skills.",
+            "Showcase successful hires and reduced time-to-fill metrics."
+        ]
+    },
+    "Talent Acquisition Specialist": {
+        "description": "Focuses on strategic long-term talent planning and acquisition, building talent pipelines and employer branding.",
+        "tips": [
+            "Detail experience in talent pipelining, employer branding, campus recruitment, and diversity initiatives.",
+            "Mention proficiency in recruitment marketing, HR analytics, and talent management software.",
+            "Highlight strategic thinking and ability to forecast talent needs."
+        ]
+    },
+    "Compensation and Benefits Specialist": {
+        "description": "Designs, implements, and administers employee compensation and benefits programs.",
+        "tips": [
+            "Highlight experience in salary benchmarking, benefits administration (health, retirement), and compensation analysis.",
+            "Mention knowledge of compensation laws, market trends, and HRIS integration.",
+            "Showcase ability to ensure competitive and equitable compensation packages."
+        ]
+    },
+    "HR Business Partner": {
+        "description": "Serves as a strategic partner to business units, aligning HR strategies with business objectives and providing HR guidance.",
+        "tips": [
+            "Detail experience in organizational development, change management, employee relations, and talent management.",
+            "Highlight ability to influence stakeholders, provide strategic HR advice, and drive business outcomes.",
+            "Mention strong communication, problem-solving, and business acumen."
+        ]
+    },
+    "Financial Analyst": {
+        "description": "Analyzes financial data to provide insights and recommendations for investment decisions, budgeting, and forecasting.",
+        "tips": [
+            "Highlight experience in financial modeling, valuation, budgeting, and variance analysis.",
+            "Mention proficiency in Excel, financial software (e.g., Bloomberg, Capital IQ), and data visualization tools.",
+            "Showcase ability to interpret financial statements and present complex data clearly."
+        ]
+    },
+    "Accountant": {
+        "description": "Manages financial records, prepares financial statements, and ensures compliance with financial regulations.",
+        "tips": [
+            "Detail experience in general ledger, accounts payable/receivable, payroll, and financial reporting.",
+            "Mention proficiency in accounting software (e.g., QuickBooks, SAP, Oracle) and GAAP/IFRS.",
+            "Highlight attention to detail, accuracy, and strong analytical skills."
+        ]
+    },
+    "Auditor": {
+        "description": "Examines financial records, operations, and controls to ensure accuracy, compliance, and efficiency.",
+        "tips": [
+            "Highlight experience in financial auditing, internal controls assessment, and compliance audits.",
+            "Mention knowledge of auditing standards, regulatory requirements, and risk management.",
+            "Showcase ability to identify discrepancies and provide actionable recommendations."
+        ]
+    },
+    "Investment Banker": {
+        "description": "Provides financial advisory services to corporations and governments on mergers, acquisitions, and capital raising.",
+        "tips": [
+            "Detail experience in financial modeling, valuation, deal execution, and pitch book preparation.",
+            "Mention strong knowledge of capital markets, corporate finance, and M&A processes.",
+            "Highlight analytical skills, attention to detail, and ability to work under pressure."
+        ]
+    },
+    "Financial Advisor": {
+        "description": "Provides financial guidance and planning services to individuals and businesses on investments, retirement, and wealth management.",
+        "tips": [
+            "Highlight experience in financial planning, investment strategies, and client relationship management.",
+            "Mention relevant certifications (e.g., CFP, Series 7) and regulatory compliance.",
+            "Showcase ability to tailor financial solutions and build trust with clients."
+        ]
+    },
+    "Economist": {
+        "description": "Studies the production, distribution, and consumption of goods and services, often analyzing economic data and trends.",
+        "tips": [
+            "List proficiency in statistical software (e.g., R, Python, Stata) and econometric modeling.",
+            "Highlight experience in economic forecasting, policy analysis, and quantitative research.",
+            "Showcase publications or research projects."
+        ]
+    },
+    "UX Researcher": {
+        "description": "Conducts research to understand user behaviors, needs, and motivations to inform product design and development.",
+        "tips": [
+            "Detail experience with various research methodologies (e.g., user interviews, usability testing, surveys, a/b testing).",
+            "Mention proficiency in research tools and data analysis techniques.",
+            "Highlight ability to translate research findings into actionable insights for design teams."
+        ]
+    },
+    "Interaction Designer": {
+        "description": "Focuses on the interaction between users and products, designing intuitive and engaging interfaces and user flows.",
+        "tips": [
+            "Showcase a portfolio demonstrating your interaction design process and solutions.",
+            "Mention proficiency in prototyping tools (e.g., Figma, Sketch, Adobe XD) and wireframing.",
+            "Highlight experience in user-centered design principles and usability."
+        ]
+    },
+    "Visual Designer": {
+        "description": "Specializes in the aesthetic appeal and visual branding of digital products and marketing materials.",
+        "tips": [
+            "Provide a strong visual portfolio showcasing branding, typography, color theory, and layout skills.",
+            "Mention proficiency in design software (e.g., Adobe Photoshop, Illustrator, InDesign).",
+            "Highlight experience in creating consistent visual identities across various platforms."
+        ]
+    },
+    "Illustrator": {
+        "description": "Creates original artwork, images, and visual representations for various media, including books, magazines, and digital platforms.",
+        "tips": [
+            "Showcase a diverse portfolio of illustrations demonstrating various styles and techniques.",
+            "Mention proficiency in digital illustration software (e.g., Adobe Illustrator, Procreate) and traditional mediums.",
+            "Highlight creativity, attention to detail, and ability to meet client briefs."
+        ]
+    },
+    "Animator": {
+        "description": "Creates moving images using various techniques (2D, 3D, stop-motion) for films, games, advertisements, or web content.",
+        "tips": [
+            "Provide a compelling animation reel showcasing your best work.",
+            "Mention proficiency in animation software (e.g., Adobe Animate, After Effects, Maya, Blender).",
+            "Highlight skills in character animation, motion graphics, and storytelling through movement."
+        ]
+    },
+    "Video Editor": {
+        "description": "Assembles raw footage into a cohesive and engaging narrative for film, television, or digital platforms.",
+        "tips": [
+            "Provide a demo reel showcasing your editing style and project diversity.",
+            "Mention proficiency in video editing software (e.g., Adobe Premiere Pro, DaVinci Resolve, Final Cut Pro).",
+            "Highlight skills in storytelling, pacing, color grading, and sound design."
+        ]
+    },
+    "Photographer": {
+        "description": "Captures images using cameras for artistic, commercial, or journalistic purposes.",
+        "tips": [
+            "Provide a strong online portfolio showcasing your photographic style and specialties (e.g., portrait, landscape, product).",
+            "Mention proficiency in camera equipment, lighting techniques, and photo editing software (e.g., Adobe Lightroom, Photoshop).",
+            "Highlight artistic vision, technical skills, and ability to tell stories through images."
+        ]
+    },
+    "Sound Engineer": {
+        "description": "Works with audio to record, mix, master, and enhance sound for various applications like music, film, or live events.",
+        "tips": [
+            "Detail experience with digital audio workstations (DAWs) like Pro Tools, Logic Pro, Ableton Live.",
+            "Mention proficiency in audio mixing, mastering, recording techniques, and acoustics.",
+            "Showcase sound design projects, music production, or live sound experience."
+        ]
+    },
+    "Music Producer": {
+        "description": "Oversees and manages the creation of music recordings, from pre-production to mixing and mastering.",
+        "tips": [
+            "Provide a discography or portfolio of produced tracks.",
+            "Mention proficiency in DAWs, music theory, arrangement, and sound design.",
+            "Highlight ability to collaborate with artists, manage recording sessions, and achieve desired sonic quality."
+        ]
+    },
+    "Linguist": {
+        "description": "Studies the nature of language, including its structure, meaning, and use, across different cultures and contexts.",
+        "tips": [
+            "Highlight expertise in specific linguistic subfields (e.g., syntax, semantics, phonology, sociolinguistics).",
+            "Mention experience in language research, data analysis, and computational linguistics.",
+            "Showcase publications or academic projects."
+        ]
+    },
+    "Translator": {
+        "description": "Converts written content from one language to another while maintaining its meaning, context, and tone.",
+        "tips": [
+            "List your language pairs and relevant certifications (e.g., ATA certification).",
+            "Highlight experience in specific domains (e.g., legal, medical, technical translation).",
+            "Showcase translation samples and proficiency in CAT tools (e.g., Trados, MemoQ)."
+        ]
+    },
+    "Paralegal": {
+        "description": "Assists lawyers with legal research, document preparation, and case management.",
+        "tips": [
+            "Highlight experience in legal research tools (e.g., Westlaw, LexisNexis), drafting legal documents, and case file organization.",
+            "Mention knowledge of legal procedures, court rules, and specific areas of law.",
+            "Showcase strong research, writing, and organizational skills."
+        ]
+    },
+    "Legal Assistant": {
+        "description": "Provides administrative support to lawyers and legal teams, managing schedules, communications, and office tasks.",
+        "tips": [
+            "Detail experience in scheduling, client communication, document formatting, and office management.",
+            "Mention proficiency in legal practice management software and Microsoft Office Suite.",
+            "Highlight strong organizational skills, attention to detail, and discretion."
+        ]
+    },
+    "Attorney": {
+        "description": "Provides legal advice and representation to clients, often specializing in specific areas of law.",
+        "tips": [
+            "List bar admissions, areas of practice (e.g., corporate, litigation, family, real estate), and successful case outcomes.",
+            "Highlight experience in legal research, negotiation, courtroom advocacy, and client counseling.",
+            "Showcase publications, presentations, or pro bono work."
+        ]
+    },
+    "Judge": {
+        "description": "Presides over legal proceedings in courts of law, interpreting laws and making rulings based on legal principles.",
+        "tips": [
+            "Detail extensive legal experience as an attorney or in judicial roles.",
+            "Highlight strong knowledge of law, impartiality, and decision-making skills.",
+            "Mention any judicial appointments or significant cases presided over."
+        ]
+    },
+    "Police Officer": {
+        "description": "Enforces laws, maintains public order, investigates crimes, and protects citizens.",
+        "tips": [
+            "Highlight training and experience in law enforcement, public safety, and emergency response.",
+            "Mention strong communication, problem-solving, and conflict resolution skills.",
+            "Showcase community involvement and adherence to ethical standards."
+        ]
+    },
+    "Firefighter": {
+        "description": "Responds to fires, emergencies, and other incidents to protect lives, property, and the environment.",
+        "tips": [
+            "Detail certifications (e.g., EMT, Firefighter I/II) and relevant training.",
+            "Highlight experience in emergency response, rescue operations, and hazardous materials handling.",
+            "Mention strong teamwork, physical fitness, and quick decision-making skills."
+        ]
+    },
+    "EMT": {
+        "description": "Provides immediate medical care to individuals in emergency situations before they reach a hospital.",
+        "tips": [
+            "List EMT certifications and relevant medical training.",
+            "Highlight experience in pre-hospital care, patient assessment, and trauma management.",
+            "Showcase strong communication, critical thinking, and calm demeanor under pressure."
+        ]
+    },
+    "Pilot": {
+        "description": "Operates aircraft for commercial, military, or private purposes, ensuring safe and efficient flights.",
+        "tips": [
+            "Detail flight hours, pilot licenses (e.g., Commercial Pilot License, Airline Transport Pilot License), and ratings.",
+            "Mention experience with specific aircraft types, navigation systems, and aviation regulations.",
+            "Highlight strong decision-making, spatial awareness, and adherence to safety protocols."
+        ]
+    },
+    "Flight Attendant": {
+        "description": "Ensures the safety, comfort, and service of passengers during air travel.",
+        "tips": [
+            "Highlight strong customer service, communication, and emergency response skills.",
+            "Mention experience in hospitality, safety procedures, and international travel if applicable.",
+            "Showcase ability to remain calm under pressure and provide excellent passenger care."
+        ]
+    },
+    "Logistics Coordinator": {
+        "description": "Manages the flow of goods, services, and information from origin to consumption, ensuring efficiency and timely delivery.",
+        "tips": [
+            "Detail experience in supply chain management, inventory control, shipping, and customs procedures.",
+            "Mention proficiency in logistics software, ERP systems, and data analysis.",
+            "Highlight strong organizational, problem-solving, and communication skills."
+        ]
+    },
+    "Supply Chain Manager": {
+        "description": "Oversees the entire supply chain process, from procurement and production to distribution and logistics.",
+        "tips": [
+            "Highlight experience in supply chain optimization, cost reduction, vendor management, and risk assessment.",
+            "Mention certifications (e.g., CSCP, CPIM) and proficiency in supply chain software.",
+            "Showcase successful supply chain improvements and strategic planning."
+        ]
+    },
+    "Warehouse Manager": {
+        "description": "Oversees the daily operations of a warehouse, including receiving, storage, inventory, and shipping.",
+        "tips": [
+            "Highlight experience in warehouse operations, inventory management systems (WMS), and logistics.",
+            "Mention leadership skills, team management, and safety compliance.",
+            "Showcase improvements in efficiency, accuracy, or cost reduction."
+        ]
+    },
+    "Truck Driver": {
+        "description": "Operates commercial trucks to transport goods over long or short distances.",
+        "tips": [
+            "List Commercial Driver's License (CDL) endorsements and driving record.",
+            "Highlight experience with various truck types, routes, and cargo types.",
+            "Mention adherence to safety regulations, time management, and vehicle maintenance knowledge."
+        ]
+    },
+    "Chef": {
+        "description": "Prepares and cooks food in a professional kitchen, often managing kitchen staff and operations.",
+        "tips": [
+            "Detail culinary training, specialized cooking techniques, and cuisine expertise.",
+            "Mention experience in menu development, kitchen management, food safety, and team leadership.",
+            "Showcase culinary creations or successful kitchen operations."
+        ]
+    },
+    "Baker": {
+        "description": "Prepares and bakes bread, pastries, desserts, and other baked goods.",
+        "tips": [
+            "Highlight experience in various baking techniques, recipe development, and decorating skills.",
+            "Mention knowledge of ingredients, food safety, and production volume management.",
+            "Showcase a portfolio of baked goods if possible."
+        ]
+    },
+    "Barista": {
+        "description": "Performs tasks related to coffee preparation and serving, demonstrating knowledge of different coffee types and brewing methods.",
+        "tips": [
+            "Emphasize knowledge of coffee brewing techniques, latte art, and customer service.",
+            "Highlight experience in handling POS systems, cash, and maintaining cleanliness.",
+            "Showcase passion for coffee and ability to work in a fast-paced environment."
+        ]
+    },
+    "Waiter/Waitress": {
+        "description": "Serves food and beverages to customers in restaurants, cafes, or other dining establishments.",
+        "tips": [
+            "Highlight strong customer service, communication, and multitasking skills.",
+            "Mention experience in order taking, food presentation, and table service.",
+            "Showcase ability to upsell, handle difficult customers, and work efficiently."
+        ]
+    },
+    "Hotel Manager": {
+        "description": "Oversees the daily operations of a hotel, ensuring guest satisfaction, profitability, and smooth departmental functions.",
+        "tips": [
+            "Detail experience in hotel operations, guest relations, staff management, and budgeting.",
+            "Mention knowledge of hospitality software, revenue management, and marketing.",
+            "Showcase improvements in guest satisfaction scores or operational efficiency."
+        ]
+    },
+    "Tour Guide": {
+        "description": "Leads groups of people on tours, providing information and commentary on historical, cultural, or natural sites.",
+        "tips": [
+            "Highlight in-depth knowledge of specific locations, history, or subjects.",
+            "Mention strong public speaking, storytelling, and group management skills.",
+            "Showcase ability to engage diverse audiences and handle unforeseen situations."
+        ]
+    },
+    "Travel Agent": {
+        "description": "Assists clients in planning and booking travel arrangements, including flights, accommodations, and tours.",
+        "tips": [
+            "Highlight experience with booking systems, destination knowledge, and customer service.",
+            "Mention certifications (e.g., CTA) and proficiency in travel planning software.",
+            "Showcase ability to create customized itineraries and find cost-effective solutions."
+        ]
+    },
+    "Fitness Trainer": {
+        "description": "Develops and implements exercise programs for individuals or groups to improve their physical fitness and health.",
+        "tips": [
+            "List relevant certifications (e.g., ACE, NASM, ACSM) and specialized training.",
+            "Highlight experience in client assessment, program design, and motivation techniques.",
+            "Showcase client success stories and strong communication skills."
+        ]
+    },
+    "Yoga Instructor": {
+        "description": "Leads yoga classes, guiding students through postures, breathing exercises, and meditation.",
+        "tips": [
+            "List yoga teacher training certifications and lineage.",
+            "Highlight experience teaching various yoga styles and levels.",
+            "Mention knowledge of anatomy, philosophy, and ability to create a safe and inclusive environment."
+        ]
+    },
+    "Nutritionist": {
+        "description": "Provides guidance on diet and nutrition to promote health and manage disease.",
+        "tips": [
+            "List relevant certifications (e.g., RD, CNS) and educational background.",
+            "Highlight experience in dietary counseling, meal planning, and health assessments.",
+            "Showcase ability to educate clients on healthy eating habits and achieve health goals."
+        ]
+    },
+    "Dietitian": {
+        "description": "A registered healthcare professional who provides medical nutrition therapy and food service management.",
+        "tips": [
+            "List Registered Dietitian (RD) credential and state licensure.",
+            "Detail experience in clinical nutrition, food service management, or community health.",
+            "Highlight ability to assess nutritional needs, develop personalized plans, and provide evidence-based recommendations."
+        ]
+    },
+    "Coach": {
+        "description": "Guides individuals or teams to improve performance, achieve goals, or develop specific skills.",
+        "tips": [
+            "Specify your coaching area (e.g., executive coach, life coach, sports coach).",
+            "List relevant certifications and training.",
+            "Highlight experience in goal setting, motivational techniques, and client progress tracking."
+        ]
+    },
+    "Sports Trainer": {
+        "description": "Assists athletes in improving performance, preventing injuries, and recovering from physical exertion.",
+        "tips": [
+            "List certifications (e.g., ATC, CSCS) and relevant sports medicine education.",
+            "Highlight experience in injury assessment, rehabilitation exercises, and strength/conditioning.",
+            "Showcase work with athletic teams or individual athletes."
+        ]
+    }
+}

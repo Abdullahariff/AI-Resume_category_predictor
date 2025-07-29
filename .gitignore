@@ -1,0 +1,5 @@
+# Ignore dataset file
+UpdatedResumeDataSet.csv
+
+# Ignore Python cache
+__pycache__/
